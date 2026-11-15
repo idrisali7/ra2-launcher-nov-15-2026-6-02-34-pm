@@ -1,0 +1,6 @@
+{
+  "name": "RA2 Launcher",
+  "description": "Advanced tactical launcher, INI configurator, file integrity checker, and mod manager for Red Alert 2 and Yuri's Revenge on Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
